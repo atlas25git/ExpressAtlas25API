@@ -1,0 +1,4 @@
+<br><li><strong>GET</strong><hr><strong>/posts/:postTitle</strong> : Makes a GET request to fetch an article from the database, with provided title.</li>
+<br><li><strong>PUT</strong><hr><strong>/posts/:postTitle</strong> : Makes a PUT request to update an article from the database, with provided title.</li>
+<br><li><strong>PATCH</strong><hr><strong>/posts/:postTitle</strong> : Makes a PATCH request to patch an article from the database, with provided title.</li>
+<br><li><strong>DELETE</strong><hr><strong>/posts/:postTitle</strong> : Makes a DELETE request to delete an article from the database, with provided title.</li>
